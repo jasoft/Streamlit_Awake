@@ -22,4 +22,5 @@ STREAMLIT_APPS = [
     "https://educhain-interactive-app.streamlit.app/",
     "https://multi-lang-quiz.streamlit.app/",
     "https://deep-research-search.streamlit.app/",
+    "https://hungerbox-poc.streamlit.app/"
 ]
